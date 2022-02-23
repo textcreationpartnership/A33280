@@ -1,0 +1,382 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A sermon preached in the Cathedral Church of Rochester, on the 29th of May, 1684 being the anniversary of His most sacred Majesty's birth, and happy restauration to these his undoubted realms and dominions / by John Clerke ...</title>
+            <author>Clerke, John, b. 1649 or 50.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1684</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 43 KB of XML-encoded text transcribed from 15 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A33280</idno>
+            <idno type="STC">Wing C4478</idno>
+            <idno type="STC">ESTC R11278</idno>
+            <idno type="EEBO-CITATION">12032330</idno>
+            <idno type="OCLC">ocm 12032330</idno>
+            <idno type="VID">52773</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A33280)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 52773)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 886:28)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A sermon preached in the Cathedral Church of Rochester, on the 29th of May, 1684 being the anniversary of His most sacred Majesty's birth, and happy restauration to these his undoubted realms and dominions / by John Clerke ...</title>
+                  <author>Clerke, John, b. 1649 or 50.</author>
+               </titleStmt>
+               <extent>[6], 23 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for George Downes ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1684.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the University of Illinois (Urbana-Champaign Campus). Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Sermons, English --  17th century.</term>
+               <term>Great Britain --  History --  Charles II, 1660-1685.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-05</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-08</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2013-08</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:52773:1"/>
+            <pb facs="tcp:52773:1" rendition="simple:additions"/>
+            <p>A SERMON Preached in the Cathedral Church OF ROCHESTER, On the 29<hi rend="sup">th.</hi> of <hi>May,</hi> 1684.</p>
+            <p>BEING The Anniverſary of His Moſt Sacred Majeſty's Birth, and happy Reſtauration to theſe his undoubted Realms and Dominions.</p>
+            <p>By <hi>JOHN CLERKE;</hi> Late Fellow of <hi>All-Souls</hi> College, and Proctor of the Univerſity of <hi>Oxford.</hi>
+            </p>
+            <p>Now Rector of <hi>Ulcomb,</hi> and <hi>Hariſtſham,</hi> in the County of <hi>Kent.</hi>
+            </p>
+            <p>Publiſhed at the Requeſt of that Corporation.</p>
+            <q>
+               <l>Caeſaris <hi>alma dies—</hi>
+               </l>
+               <l>
+                  <hi>Longa precor,</hi> Pylio<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> 
+                  <hi>veni numeroſior aevo,</hi>
+               </l>
+               <l>
+                  <hi>Semper &amp; hoc vultu, vel meliore nite.</hi>
+               </l> 
+               <bibl>Mart. Lib. 4. Ep. 1.</bibl>
+            </q>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>George Downes,</hi> at the <hi>Three Flower de Lyſs's,</hi> over againſt St. <hi>Dunſtan</hi>'s Church, in <hi>Fleet-ſtreet.</hi> 1684.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:52773:2"/>
+            <pb facs="tcp:52773:2"/>
+            <head>
+               <hi>To the Right Worſhipful, the MAYOR, RECORDER, ALDERMEN, and COMMON COUNCIL of the City of</hi> ROCHESTER.</head>
+            <opener>
+               <salute>Worthy Sirs,</salute>
+            </opener>
+            <p>FIrſt in your <hi>Cathedral Church</hi> to have recommended, and af<g ref="char:EOLhyphen"/>terwards, in a more ſolemn manner, to have dedicated a <hi>Perſuaſive</hi> to a chearful <hi>Obedience</hi> to thoſe lawful <hi>Governors, whom God alone</hi> has thought fit to place over you of that ſo <hi>Ancient</hi> and tru<g ref="char:EOLhyphen"/>ly <hi>Loyal City;</hi> may ſeem, upon a tranſient View, to argue the Preacher and Publiſher of ſuch a Diſcourſe, to have been ſo far tranſported, by a too <hi>fervent Zeal</hi> for the defence of his
+<pb facs="tcp:52773:3"/> moſt juſt <hi>Cauſe;</hi> as to have over<g ref="char:EOLhyphen"/>looked his LORD and MASTER'S Obſervation: namely, that, <hi>They</hi> 
+               <note place="margin">Mar. 2. 17.</note> 
+               <hi>that are whole have no need of the Phyſitian, but they that are ſick.</hi> And therefore a brief <hi>Treatiſe</hi> on ſuch a <hi>Point</hi> as this, had been much more properly delivered in the <hi>Pulpit,</hi> much more ſeaſonably preſented from the <hi>Preſs,</hi> to ſome other <hi>Corporation;</hi> which has, peradventure, of late been afraid to do that which is <hi>Evil</hi> againſt their Supreme <hi>Magiſtrate;</hi> only be<g ref="char:EOLhyphen"/>cauſe they have happily found him not to have <hi>borne the Sword</hi> of Juſtice <hi>in vain.</hi>
+            </p>
+            <p>But ſince that <hi>Remark</hi> of our <hi>Bleſſed Saviour</hi> does in no wiſe de<g ref="char:EOLhyphen"/>hort from following the Son of <hi>Si<g ref="char:EOLhyphen"/>rach</hi>'s wholſome Advice; <hi>viz. to uſe</hi> 
+               <note place="margin">Eccluſ. 18. 19.</note> 
+               <hi>Phyſick or ever we be ſick:</hi> to meet
+<pb facs="tcp:52773:3"/> even the remoteſt Symptomes of thoſe more ſlowly approaching Diſeaſes, which tend to the diſſolution of thoſe earthly Houſes, our Souls at preſent inhabit. Let therefore what hath been ſaid upon this Subject, be inter<g ref="char:EOLhyphen"/>preted according to the true meaning thereof: <hi>i. e.</hi> Not ſo much for a <hi>Confirmation,</hi> as a happy <hi>Continu<g ref="char:EOLhyphen"/>ation;</hi> but chiefly for a deſerved <hi>Commendation</hi> of your firm, unſha<g ref="char:EOLhyphen"/>ken <hi>Allegiance</hi> to the <hi>Crown;</hi> and of your Exemplary <hi>Obedience</hi> to the <hi>Church, as now by Law eſtabliſh<g ref="char:EOLhyphen"/>ed.</hi> And that too at ſuch a time, when ſo many of your <hi>Siſter-Societies</hi> did but too plainly demonſtrate; That the true <hi>Faith,</hi> they ought then to have born to their <hi>Soveraign,</hi> his lawful <hi>Heirs</hi> and <hi>Succeſſors,</hi> was on<g ref="char:EOLhyphen"/>ly ſupported by the eaſily <hi>yielding</hi>
+               <pb facs="tcp:52773:4"/> 
+               <hi>Ground;</hi> and built upon that moſt deceitful <hi>Sandy Foundation</hi> of a <hi>miſtaken Intereſt.</hi>
+            </p>
+            <p>Wherefore, may the deſign of this Eſſay be underſtood to be (what real<g ref="char:EOLhyphen"/>ly it is) a ſincere, hearty, though weak Endeavour; That <hi>You,</hi> who now <hi>ſtand</hi> ſo ſecure, may <hi>take heed leſt</hi> hereafter <hi>you fall.</hi> That <hi>You,</hi> who are now <hi>planted a noble Vine,</hi> 
+               <note place="margin">
+                  <hi>Jer.</hi> 2. 21.</note> 
+               <hi>wholly a right Seed,</hi> may not in time to come <hi>be turned into the degene<g ref="char:EOLhyphen"/>rate Plant of a ſtrange Vine.</hi> So prayeth,</p>
+            <closer>
+               <signed>
+                  <hi>Your Servant for</hi> Jeſus ſake, John Clerke.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb n="1" facs="tcp:52773:4"/>
+            <epigraph>
+               <bibl>1 Cor. 10. 10.</bibl>
+               <q>Neither murmur ye, as ſome of them alſo murmured, and were deſtroyed of the deſtroyer.</q>
+            </epigraph>
+            <p>THis Chapter contains a Catalogue of thoſe numerous tranſgreſſions, which the Children of <hi>Iſrael</hi> were found guilty of before the Lord their God.</p>
+            <p>In which account, my Text brings in that Cardinal Sin of <hi>murmuring</hi> againſt their Rulers, of repining againſt Gods heavenly Diſpenſations, in governing all the Nations upon Earth, accor<g ref="char:EOLhyphen"/>ding to his Divine Will and Pleaſure. For the Words have a particular reference to <hi>Korah,</hi> and his rebellious Accomplices; who inſolently accuſed the man <hi>Moſes,</hi> a Perſon of eminent <hi>meekneſs,</hi> even <hi>above all the men which were upon</hi> 
+               <note place="margin">Num. 12. 3.</note> 
+               <hi>the face of the Earth;</hi> for haughtily aſpiring to make himſelf <hi>altogether a Prince over them</hi> in <note place="margin">Num. 16. 13.</note> Temporal matters: and for conſtituting his Bro<g ref="char:EOLhyphen"/>ther <hi>Aaron</hi> High Prieſt, and ſo conſequently making him Chief in all Spiritual affairs.</p>
+            <p>Whereupon the diſaffected Party gather them<g ref="char:EOLhyphen"/>ſelves together in Tumults; and tell theſe two
+<pb n="2" facs="tcp:52773:5"/> Pillars, Upholders of the moſt immediate <hi>Theocracy</hi> 
+               <note place="margin">Joſephus lib. contr. Appion.</note> ever known on this ſide Heaven, plainly to their faces; That in truth, <hi>they took too much upon them, ſeeing all the Congregation were holy every one</hi> 
+               <note place="margin">Num. 16. 3.</note> 
+               <hi>of them, and the Lord was</hi> alike <hi>among them.</hi> Whence they proceeded to demand that uncivil queſtion, <hi>Wherefore then</hi> did theſe two Brethren arrogantly <hi>lift up themſelves above the Congregation of the Lord?</hi>
+            </p>
+            <p>Thus do we find, that in all Ages before and from the <hi>Jewiſh</hi> times, even down to our own later unhappy dayes of utter confuſion and in<g ref="char:EOLhyphen"/>effable miſery, the Trumpet never yet ſounded an Alarm for battle; but the goodly pretences, the ſpecious pleas made uſe of to excite the un<g ref="char:EOLhyphen"/>thinking Multitude, to animate the ignorant Rabble (which, like thoſe <hi>ſixſcore thouſand per<g ref="char:EOLhyphen"/>ſons</hi> of <hi>Nineveh, cannot diſcern between their right</hi> 
+               <note place="margin">Jonas 4. 12.</note> 
+               <hi>hand and their left)</hi> evermore were, and ever<g ref="char:EOLhyphen"/>more will be thoſe falſe ſuggeſtions, that their Rulers take away from them their Property and Liberty, their Religion and freedom of Con<g ref="char:EOLhyphen"/>ſcience.</p>
+            <p>Wherefore ſince the bleſſed Apoſtle tells us in the following words of my Text, That <hi>all theſe things hapned unto them for enſamples; and</hi> 
+               <note place="margin">Ver. 11.</note> 
+               <hi>they were</hi> further <hi>written</hi> and delivered down un<g ref="char:EOLhyphen"/>to poſterity <hi>for our admonition, upon whom the ends of the world are come;</hi> whoſe lot it is, as perſons <hi>born out of due time,</hi> to wear out a trou<g ref="char:EOLhyphen"/>bleſome life in theſe laſt and worſt of dayes; Let us, I ſay, therefore endeavour to grow wiſe
+<pb n="3" facs="tcp:52773:5"/> upon other perſons coſt. Let us, having taken a ſerious view in private of thoſe ſtupendous Judgments ſhew'd upon thoſe Mutineers; how ſuddenly thoſe malecontents <hi>periſhed and came to a fearful end,</hi> unanimouſly reſolve <hi>Rebellion</hi> to <note place="margin">1 Sam. 15. 23.</note> be in truth (according to the Scripture compa<g ref="char:EOLhyphen"/>riſon made thereof) <hi>as the ſin of Witchcraft.</hi>
+            </p>
+            <p>Let us accoſt thoſe <hi>Sons of men,</hi> who (in the phraſe of the Pſalmiſt) <hi>are ſet on fire:</hi> that re<g ref="char:EOLhyphen"/>ſolvedly <note place="margin">Pſal. 57. 4.</note> continue reſtleſs, as thoſe noxious aſpi<g ref="char:EOLhyphen"/>ring flames, which firſt incenſed them, until they have, like thoſe, conſumed whatſoever is high and great above them: that moſt obſtinately perſevere by their daily practices and nightly Studies, to cauſe unhappy diviſions amongſt us, in the words St. <hi>Paul</hi> does his <hi>fooliſh Galatians,</hi> 
+               <note place="margin">Gal. 3. 1. <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</note> namely, <hi>who hath bewitched you?</hi> Who, by the Helliſh power of magick Faſcination has ſo far infatuated you, ſo ſtrangely depriv'd you of that natural reaſon you were born into the World with, as to make you ſo erroneouſly prefer <hi>Changes and War,</hi> before <hi>Eſtabliſhment and Peace?</hi>
+            </p>
+            <p>In the enſuing Diſcourſe I ſhall endeavour to ſhew:</p>
+            <p n="1">1. That in theſe later times of Uſurpation, Li<g ref="char:EOLhyphen"/>berty and Property, Religion and Freedom of Conſcience were moſt unjuſtly taken away from the oppreſſed Inhabitants of theſe three then wretched Kingdoms.</p>
+            <p n="2">2. That God has been pleaſed in a moſt won<g ref="char:EOLhyphen"/>derful manner to reſtore unto us of theſe rava<g ref="char:EOLhyphen"/>ged
+<pb n="4" facs="tcp:52773:6"/> Nations, together with our King, our Liber<g ref="char:EOLhyphen"/>ty and Property, our Religion and Freedom of Conſcience, in the higheſt degree of perfecti<g ref="char:EOLhyphen"/>on.</p>
+            <p n="3">3. That notwithſtanding this, an ungrateful <hi>murmuring</hi> againſt the Government is ſtill the <hi>Engliſh,</hi> as it was then the <hi>Iſraelitiſh</hi> Sin, which cries aloud to Heaven for Vengeance. And then</p>
+            <p n="4">4. And Laſtly, I ſhall draw a practical Conclu<g ref="char:EOLhyphen"/>ſion from the foregoing matter, and ſo diſmiſs you.</p>
+            <p>Of theſe in their order; and Firſt, That in <milestone type="tcpmilestone" unit="unspecified" n="I"/> theſe later times of Uſurpation, Liberty and Pro<g ref="char:EOLhyphen"/>perty, Religion and Freedom of Conſcience were moſt unjuſtly taken away from the oppreſſed In<g ref="char:EOLhyphen"/>habitants of theſe three then wretched King<g ref="char:EOLhyphen"/>doms.</p>
+            <p>It cannot indeed be denied by any ingenuous perſon, but that (contrary to the <hi>Roman</hi> Obſer<g ref="char:EOLhyphen"/>vation) <note place="margin">Silent Leges inter arma. Cic. Orat. pro Milone.</note> at the ſame time when the ſhriller ſound of the Trumpet, <hi>the noiſe of Horſes, and the noiſe of a great Hoſt</hi> pierced our Fathers tender ears, <hi>Juſtice,</hi> however, was heard to <hi>utter her ſtill ſmall voice in our Streets,</hi> whilſt (in the words of the <hi>Pſalmiſt) the Throne of Iniquity,</hi> which then bore <note place="margin">Pſal. 94. 20.</note> the Soveraign Sway, <hi>framed all their Miſchief by a Law.</hi>
+            </p>
+            <p>For whoſoever ſhall compare the Tryal of our Bleſſed Saviour Jeſus Chriſt, before <hi>Pontius Pilate</hi>'s firſt <hi>High Court of Juſtice,</hi> with the Ar<g ref="char:EOLhyphen"/>raignment of our late moſt barbarouſly mur<g ref="char:EOLhyphen"/>dered
+<pb n="5" facs="tcp:52773:6"/> 
+               <hi>King,</hi> before <hi>John Bradſhaw</hi>'s ſecond, ſhall find them to differ no more, than a faithful Copy from its Original.</p>
+            <p>The blind rage of the Populace, the inſuffe<g ref="char:EOLhyphen"/>rable inſolence of the Soldiery, the mock-ſhew of Equity; but eſpecially the notorious Corrup<g ref="char:EOLhyphen"/>tion of both their Judges, in condemning two innocent Perſons, in whom they could find no fault; in ſuffering them alike to be deſtroyed only by a pretended Law; nay, and by a fur<g ref="char:EOLhyphen"/>ther abetting their Deaths by an unknown Law, do make their conditions exactly parallel, and I had almoſt ſaid, alike in Sufferings, alike in In<g ref="char:EOLhyphen"/>nocence.</p>
+            <p>But to proceed, As it fared with Him, who <hi>ſate upon the Throne,</hi> even ſo did it fare with him, <note place="margin">Eccluſ. 40. 3, 5.</note> 
+               <hi>that was humbled in Earth and Aſhes, Wrath and Envy, Trouble and <g ref="char:V">Ʋ</g>nquietneſs, fear of Death, and Anger, and Strife</hi> were made the common por<g ref="char:EOLhyphen"/>tion of Truth and Fidelity: Whilſt thoſe partial Determiners of Cauſes (to uſe the Prophets words) <hi>ſmote the great Houſes with Breaches, and the little</hi> 
+               <note place="margin">Amos 6. 11.</note> 
+               <hi>Houſes with Clefts.</hi> The Princes and People, the Potentates and Peaſants, in proportion to their reſpective Eſtates, were equally damnified and oppreſſed.</p>
+            <p>Then was the time, when the Loyal Party <hi>ha<g ref="char:EOLhyphen"/>ving a matter againſt another,</hi> durſt not <hi>go to Law</hi> 
+               <note place="margin">1 Cor. 6. 1, 7.</note> 
+               <hi>before the <g ref="char:V">Ʋ</g>njuſt.</hi> Then was the Apoſtle's Injun<g ref="char:EOLhyphen"/>ction eaſily obſerved by all good men, <hi>rather to take wrong, rather to ſuffer themſelves to be defrau<g ref="char:EOLhyphen"/>ded</hi> by their falſe Brethren, who were for them;
+<pb n="6" facs="tcp:52773:7"/> or their traiterous Enemies, who were openly againſt them, than to bring in their legal Defence, and implead them before thoſe Heathen Tribu<g ref="char:EOLhyphen"/>nals. Then, in Short, <hi>was Judgment turned into Wormwood;</hi> then did they <hi>leave off righteouſneſs in the Earth.</hi> Whilſt they exerciſed the moſt ty<g ref="char:EOLhyphen"/>rannical, high, arbitrary Government over the Lives, Liberties and Properties of the <hi>Engliſh, Scotch</hi> and <hi>Iriſh</hi> Nations, ever yet read or heard of amongſt us. Whilſt Volumes will not contain the <hi>Murders, Rapines, Oppreſſions, Sequeſtrations, Decimations, Impriſonments,</hi> and whatſoever elſe can be thought of, that was cruel, unjuſt, and (as that great <hi>Apoſtle</hi> of thoſe more modern Gentiles words it) <hi>might be taken for an effect of their power,</hi> 
+               <note place="margin">Hobbs. Leviat. p. 56.</note> 
+               <hi>or a cauſe of their pleaſure.</hi>
+            </p>
+            <p>But to leave this Humane Court, and to enter into that Divine one, the Church.</p>
+            <p>Where, behold, in our Cathedrals (thoſe pla<g ref="char:EOLhyphen"/>ces of God's ſtanding Worſhip) where we uſed to be moſt religiouſly delighted with the grate<g ref="char:EOLhyphen"/>ful melody, and harmonious noiſe of Praiſes and Thanksgivings unto God, the Fountain and Foun<g ref="char:EOLhyphen"/>dation of all our Bliſs: We then (inſtead there<g ref="char:EOLhyphen"/>of) moſt wretchedly heard the contrary baleful Notes, the ill-boding voices of thoſe melancholy Birds mentioned by the Prophet <hi>Iſaiah: The Cor<g ref="char:EOLhyphen"/>morant</hi> 
+               <note place="margin">Iſa. 34. 11.</note> 
+               <hi>and the Bittern, which poſſeſs'd thoſe Places; the Owl alſo and the Raven which alone dwelt in them.</hi>
+            </p>
+            <p>Thoſe that <hi>lifted up the Axes</hi> before <hi>upon the</hi> 
+               <note place="margin">Pſal. 74. 5, 6.</note> 
+               <hi>thick Trees</hi> (the <hi>Pſalmiſt</hi> tells us) were renowned
+<pb n="7" facs="tcp:52773:7"/> as ſuch, who intended to <hi>bring a thing to an holy perfection:</hi> but, lo! then <hi>they brake down all the carved work of the Sanctuary with Axes and Ham<g ref="char:EOLhyphen"/>mers.</hi>
+            </p>
+            <p>It pitied us to ſee the Stones of our ruined <hi>Sion</hi> lying in the duſt; it grieved us indeed to behold this <hi>Abomination of Deſolation ſtanding where it ought not.</hi> It afflicted us to view (in the words of <hi>Ho<g ref="char:EOLhyphen"/>ſea) the Thorn and the Thiſtle coming up,</hi> flouriſh<g ref="char:EOLhyphen"/>ing <note place="margin">Hoſ. 10. 8.</note> and full blown <hi>upon our Altars:</hi> where the Myſtical Body and Blood of our Lord Jeſus Chriſt were uſually beheld, and received with a moſt awful Reverence.</p>
+            <p>If then our <hi>Emanuel,</hi> our God with us, had vouchſafed to have <hi>bowed the Heavens,</hi> to have come down and viſited that ſtubborn, ſtiff-neck<g ref="char:EOLhyphen"/>ed Generation of men, which ſo often in their hypocritical bablings invoked him by the name of Lord, Lord: He would have found a much like, but more unhallowed Reception upon ſuch a ſecond Advent, than he did upon his firſt. For thoſe <hi>Enemies of his Croſs</hi> made even his Father's Houſe become a lively Repreſentation of that crowded Inn, where there was no room; where he ſuffered himſelf, at his Incarnation, to be ne<g ref="char:EOLhyphen"/>ceſſitated to make a Stable his conſecrated Tem<g ref="char:EOLhyphen"/>ple, and a Manger his Holy of Holies, wherein to lodge his ſhrowded Divinity.</p>
+            <p>They moſt ſacrilegiouſly made thoſe Church-Lands, dedicated unto God for the maintenance of a religious and learned <hi>Clergy,</hi> to become the <hi>Wages of their Iniquity.</hi> They were then guilty of
+<pb n="8" facs="tcp:52773:8"/> 
+               <hi>Jeroboam</hi>'s <hi>evil way,</hi> they <hi>made the loweſt of the</hi> 
+               <note place="margin">1 King. 13. 33.</note> 
+               <hi>People Prieſts of the High Places:</hi> whereupon it naturally followed, that <hi>their Prieſt taught for Hire,</hi> 
+               <note place="margin">Mic. 3. 11.</note> 
+               <hi>and their Prophets divined for Money.</hi>
+            </p>
+            <p>From thence, we had preached up unto us, for ſound, and (as the Cant then was) Soul-ſa<g ref="char:EOLhyphen"/>ving Doctrine, blaſphemous Socinianiſm, wild Enthuſiaſm, diſguiſed Popery, which gave exe<g ref="char:EOLhyphen"/>crable Indulgences and Abſolutions to men, not to perform their Oaths of Allegiance and Supre<g ref="char:EOLhyphen"/>macy, they had ſo often taken: by virtue where<g ref="char:EOLhyphen"/>of (as good Chriſtians and Subjects) they and their Poſterity were obliged to bear true Faith and Truſt to their lawful Soveraign; and ſo far as in them lay, to defend that Proteſtant Church and Faith, of which our Royal Martyr died Head and moſt true Defender.</p>
+            <p>Wherefore, I ſhall chuſe to conclude this firſt Propoſition, with the Remark of a Perſon wor<g ref="char:EOLhyphen"/>thily honoured for his eminent Loyalty and Lear<g ref="char:EOLhyphen"/>ning.</p>
+            <q>We, like the revolting Subjects of <hi>Spain,</hi> 
+               <note place="margin">
+                  <hi>Sir</hi> Robert Filmer.</note> fought againſt our Liege Lord for Taxes and Religion; and proved alike proſperous Re<g ref="char:EOLhyphen"/>bels: whilſt we, as they, brought home from the bloody Fields of Battel, the ſame fortunate Trophies of our Victory; namely more Taxes than any Nation under the Heavens: and all the Religions of the World beſides. And ſo, in the ſecond place, I come to ſhew,</q>
+            <p>That God has been pleaſed in a moſt wonder<g ref="char:EOLhyphen"/>ful <milestone type="tcpmilestone" unit="unspecified" n="II"/> manner to reſtore unto us of theſe ravaged
+<pb n="9" facs="tcp:52773:8"/> Nations, together with our King, our Liberty and Property, our Religion and Freedom of Conſcience, in the higheſt degree of Perfection.</p>
+            <p>Our Fathers (like the plagued <hi>Egyptians,</hi> de<g ref="char:EOLhyphen"/>ſcribed in the Book of <hi>Wiſdom) were ſhut up in</hi> 
+               <note place="margin">Wiſd. 17. 2.</note> 
+               <hi>their own Houſes,</hi> and confined by their uſurping Governors from maintaining (the ſweeteſt comfort of Humane Life) Society with their Friends: being made <hi>Priſoners of Darkneſs, fettered with the Bonds of a long Night.</hi> Whilſt they could be permitted <note place="margin">
+                  <hi>See the Act,</hi> Anno 1649. Chap. 72.</note> on the Week-day to travel but little further than the Jewiſh Sabbath days Journey. But now (prai<g ref="char:EOLhyphen"/>ſed be God) the day is broke, and thoſe black affrighting ſhadows are fled away. The moſt il<g ref="char:EOLhyphen"/>luſtrious day now ſhines upon us, our Calendars ever yet recorded. A Day at firſt graced by the ſacred light of a Noon-tide Star added to that of the Sun. A Day which the Lord himſelf has made marvellous in our eyes, for the moſt auſpicious Birth and Return of his Gracious Majeſty, <hi>the Breath of our Noſtrils, the Anointed of the Lord.</hi> A <note place="margin">Lam. 4. 20.</note> Day, that, next to the Nativity of our bleſſed Saviour, ought in all Ages to be ſolemnized with the moſt gratefull Doxologies of <hi>Glory to God in the higheſt;</hi> for ſo miraculouſly ſending <hi>Peace</hi> on this our ſhare of the <hi>Earth:</hi> and ſo graciouſly ſhewing his <hi>good Will towards</hi> us, a loſt, ruined part of Mankind: For ſo mercifully <hi>compaſ<g ref="char:EOLhyphen"/>ſing us about with Songs of Deliverance:</hi> For ſo compaſſionately vouchſafing us a ſecond inferior ſort of Redemption from our temporal and ſpi<g ref="char:EOLhyphen"/>ritual Thraldom; a ſecond lower kind of Re<g ref="char:EOLhyphen"/>ſtauration
+<pb n="10" facs="tcp:52773:9"/> unto all our forfeited (through Sin) humane and divine happineſs.</p>
+            <p>For how does <hi>Judgment now run down as Wa<g ref="char:EOLhyphen"/>ters,</hi> 
+               <note place="margin">Amos 5. 24.</note> 
+               <hi>and Righteouſneſs as a mighty Stream!</hi> Pure and undiſturbed, as that flowing River, which guſhed forth from the twice ſmitten Rock, open<g ref="char:EOLhyphen"/>ed by the divine hand of <hi>Moſes.</hi> 
+               <note place="margin">Num. 20. 11.</note>
+            </p>
+            <p>Now the ſincere and upright Judges of our Land impartially render to all, their dues; to <hi>Caeſar</hi> the things that are <hi>Caeſar</hi>'s, with an undaunted Loyalty; to God, and his Holy Church, the things that are God's, with pure Religion; to all the King's Subjects the things that belong to them with an even indifferency.</p>
+            <p>We now again <hi>walk in the Houſe of God as Friends;</hi> which not long ſince had been made a graceleſs <hi>Den of Thieves:</hi> whilſt it was defiled with Horſes, and polluted with thoſe far uncleaner Beaſts, their Riders: who plainly, and without a <hi>Metaphor,</hi> made the <hi>Church of Chriſt</hi> here on earth to be truly <hi>Militant, and terrible as an Army</hi> 
+               <note place="margin">Cant. 6. 4.</note> 
+               <hi>with Banners;</hi> forgetting that meekneſs of Wiſ<g ref="char:EOLhyphen"/>dom, which guided our firſt Reformers in ſetling that pure, peaceable, Proteſtant Religion, which this day happily has reſtored to us.</p>
+            <p>In our Cathedral Service <hi>(whether in the Body, or out of the Body, we cannot tell; being caught up,</hi> 
+               <note place="margin">2 Cor. 12. 2.</note> 
+               <hi>as it were, with S.</hi> Paul, <hi>to the third Heaven)</hi> we now joyn with <hi>thoſe ten thouſand times ten thou<g ref="char:EOLhyphen"/>ſand,</hi> 
+               <note place="margin">Rev. 5. 11, 13.</note> 
+               <hi>and thouſands of thouſands</hi> of Angelical mi<g ref="char:EOLhyphen"/>niſtring Spirits, in a full Chorus, to ſing Pſalms and Hymns of <hi>Bleſſing,</hi> and <hi>Honour,</hi> and <hi>Glory,</hi> and
+<pb n="11" facs="tcp:52773:9"/> 
+               <hi>Power unto him that ſitteth upon the Throne, and un<g ref="char:EOLhyphen"/>to the Lamb for ever and ever.</hi>
+            </p>
+            <p>But to advance yet farther to that moſt <hi>holy ground,</hi> where the <hi>Communion Table</hi> is by publick Authority moſt properly placed: and here no <hi>Proteſtant</hi> Spectator (unleſs <hi>falſly ſo called)</hi> but but muſt from the bottom of his heart acknow<g ref="char:EOLhyphen"/>ledge; that we alone <hi>give unto the Lord the Glory</hi> 
+               <note place="margin">Pſal. 29. 2.</note> 
+               <hi>due unto his Name,</hi> and <hi>worſhip the Lord in the</hi> right <hi>beauty of Holineſs.</hi> Whilſt we alike decline the Whoriſh Gawdry of <hi>Babylon,</hi> the Idolatrous Pa<g ref="char:EOLhyphen"/>geantry of the Church of <hi>Rome,</hi> on the one hand; and the ſlovenly, clowniſh, and (in truth) irreve<g ref="char:EOLhyphen"/>rent behaviour of the <hi>Phanatick Diſſenters</hi> on the other.</p>
+            <p>We enjoy the moſt abſolute form of the Hie<g ref="char:EOLhyphen"/>rarchy to be found upon earth: a Monarchical Government of Biſhops in our Church; where our lawful Soveraign (the only true <hi>Vicegerent</hi> of Jeſus Chriſt, that <hi>ſupreme Biſhop of our Souls)</hi> pre<g ref="char:EOLhyphen"/>ſides over us in all ſacred ſpiritual matters.</p>
+            <p>And by the gracious encouragement of this our King, the Churches Royal <hi>nurſing Father,</hi> it comes to paſs; that many of thoſe, who ſerve at her Al<g ref="char:EOLhyphen"/>tars, are the <hi>Sons of Nobles:</hi> moſt of them, at leaſt deſcended from reputable Parentage.</p>
+            <p>We have publick ſet Forms of Prayer; to the end, that neither Prieſt nor People ſhould be <hi>raſh with their mouths,</hi> or let their hearts be haſty to utter any unpremeditated thing before God. The modeſt Compilers of our Liturgy having minded us, that God is in Heaven, and Omniſcient; vain
+<pb n="12" facs="tcp:52773:10"/> Man upon Earth, and born ignorant of the ways of the Lord, and <hi>unskilful in the word of Righteouſ<g ref="char:EOLhyphen"/>neſs;</hi> and therefore prudently direct us to <hi>let our words be few</hi> and choſen.</p>
+            <p>It is our Church alone, which holds no pious Frauds, maintains no holy Cheats. It is ſhe alone that can defie all the ſtudied wit and malice of her Adverſaries, to ſhew any political Article or Canon of her Eſtabliſhment, whereby it may be proved that any of her true Sons can cry out (with <hi>Demetrius)</hi> and ſay, <hi>Sirs, ye know that by</hi> 
+               <note place="margin">Act. 19. 25, 28.</note> 
+               <hi>this craft we have our Wealth;</hi> therefore, <hi>Great is</hi> Diana <hi>of the</hi> Epheſians.</p>
+            <p>No, it is only her Teachers, when they inſtruct their reſpective Congregations, who cannot be perſuaded to <hi>ſuppoſe that Gain is Godlineſs:</hi> but with an ardent Zeal demonſtrate, that they ſeek not theirs, but them; that they covet not their Poſſeſſions, but their Salvation.</p>
+            <p>She obliges her Proſelites to ſtand to no Prin<g ref="char:EOLhyphen"/>ciples, but thoſe which in expreſs words are ma<g ref="char:EOLhyphen"/>nifeſt in the Scriptures; or elſe by undeniable conſequence may be deduced thence. The un<g ref="char:EOLhyphen"/>fained meaning of which Texts, ſhe moſt candid<g ref="char:EOLhyphen"/>ly refers to thoſe impartial Commentators, thoſe greateſt Lovers and moſt competent Judges of the Divine Truth; namely, the uncorrupted Coun<g ref="char:EOLhyphen"/>cils, and genuine Works of thoſe ancient Fathers, who came neareſt our Bleſſed Saviour (the firſt <hi>Author,</hi> and laſt <hi>Finiſher of our Faith)</hi> as well in Holineſs as time.</p>
+            <pb n="13" facs="tcp:52773:10"/>
+            <p> She moſt indulgently, and like a true Mother, obliges her Children to the performance of no Duty, which has not the power of God's Law in the firſt place, and of the King's Law in the ſe<g ref="char:EOLhyphen"/>cond; a Divine as well as Humane Sanction, to enforce the practice thereof.</p>
+            <p>Her Diſcipline, in ſhort, is moſt ſincerely Pri<g ref="char:EOLhyphen"/>mitive, and her Doctrine moſt truly Apoſtolical. 'Tis ſhe alone that compleatly anſwers the deſcri<g ref="char:EOLhyphen"/>ption made in the <hi>Canticles</hi> of the Spouſe of Chriſt, <hi>She is all fair, there is no ſpot in her.</hi> 
+               <note place="margin">Cant. 4. 7.</note>
+            </p>
+            <p>Thus hath God been pleaſed to look upon his people; and magnifie his Mercy in reſtoring to us our Prince, and together with him, our Reli<g ref="char:EOLhyphen"/>gion, Laws and Liberties, to our unſpeakable preſent and future Comfort. A happineſs, that, before we enjoy'd it, was almoſt above our <hi>Faith</hi> as well as <hi>Sight:</hi> and therefore, now we do en<g ref="char:EOLhyphen"/>joy it, ſhould be commemorated with a moſt ex<g ref="char:EOLhyphen"/>alted thankfulneſs. For now has the <hi>Lord given</hi> 
+               <note place="margin">Iſa. 14. 3.</note> 
+               <hi>us Reſt from our Sorrows, and from our Fears, and from the hard Bondage wherein we were made to ſerve.</hi>
+            </p>
+            <p>This is that we ſhould all learn to do, <hi>to praiſe</hi> 
+               <note place="margin">Pſal. 107. 8.</note> 
+               <hi>the Lord for his Goodneſs, and for his wonderful Works to the Children of Men:</hi> learn to <hi>fear God</hi> firſt, and then <hi>honour his Anointed,</hi> who <hi>draws us</hi> to Obedience no otherwiſe than <hi>with the Cords of</hi> 
+               <note place="margin">Hoſ. 11. 4.</note> 
+               <hi>a Man, and with the Bands of Love.</hi> 
+               <note place="margin">
+                  <hi>Legum idcirco omnes ſervi ſu<g ref="char:EOLhyphen"/>mus, ut liberi eſſe poſſimus.</hi> Cic. Orat. pro. A. Cluentio.</note>
+            </p>
+            <p>But though our Duty be ſo eaſie, as that Li<g ref="char:EOLhyphen"/>berty ſhall be the purchaſe of our Obedience; and (as the Orator ſays) in being ſubject to the
+<pb n="14" facs="tcp:52773:11"/> Laws, we ſhall find the greateſt freedom; yet will not many amongſt us be perſuaded hereun<g ref="char:EOLhyphen"/>to: but on the contrary, diſturb the Peace and Quiet of theſe Nations, by their endleſs Jealouſies and <hi>Murmurings,</hi> Which brings me to the third Propoſition; namely,</p>
+            <p>That notwithſtanding the miſery we were in, <milestone type="tcpmilestone" unit="unspecified" n="III"/> and the happineſs we are reſtored to, an un<g ref="char:EOLhyphen"/>grateful <hi>Murmuring</hi> againſt the Government is ſtill the <hi>Engliſh,</hi> as it was then the <hi>Iſraelitiſh</hi> Sin, which cries aloud to Heaven for Vengeance.</p>
+            <p>The <hi>Engliſh Man</hi> will anſwer his opprobrious, but too ſadly true Character; that <hi>he never knows when he is well.</hi> Then only will he make a true eſtimate of his happineſs, when it is too late; when, for his high Ingratitude towards his Di<g ref="char:EOLhyphen"/>vine and Humane Donors, he moſt juſtly becomes deprived thereof.</p>
+            <p>He is born with an innate ſullen Principle of Diſcontent, which directly interferes with that inward Quiet, that ſedate Serenity of Mind, which alone is able to yield that true Peace and Satisfaction, which all <hi>the Affluence,</hi> which all <hi>the good things of this World</hi> beſides cannot afford.</p>
+            <p>Yea, he will continue like the troubled Sea, when it cannot reſt: He will, like thoſe diſturbed Waters, be <hi>caſting up Mire and Dirt:</hi> He will, like thoſe <hi>raging Waves,</hi> be evermore <hi>foaming out his own ſhame,</hi> by <hi>deſpiſing Dominion, and ſpeak-Evil of Dignities.</hi> He will not ceaſe bringing <hi>falſe railing Accuſations</hi> againſt the eſtabliſhed Government under which he lives; until he
+<pb n="15" facs="tcp:52773:11"/> has effectually made his <hi>Teeth</hi> to prove <hi>Spears and Arrows, and his Tongue a ſharp Sword,</hi> where<g ref="char:EOLhyphen"/>with to deſtroy his lawful Soveraign, and Fel<g ref="char:EOLhyphen"/>low-Subjects.</p>
+            <p>For, whence elſe have proceeded thoſe two late equally deteſtable Helliſh Plots, of the Jeſuits, and Jeſuited Proteſtants; of <hi>Simeon</hi> and <hi>Levi, who are Brethren,</hi> who have the ſame <hi>Inſtruments of Cruelty in both their Habitations?</hi>
+            </p>
+            <p>From whence elſe have aroſe thoſe contumeli<g ref="char:EOLhyphen"/>ous Reproaches, whereby the <hi>blaſphemous Rab<g ref="char:EOLhyphen"/>ſhakehs</hi> of our Age, with the peſtilential Breath of their Mouths, have in vain endeavoured to blaſt the verdant flouriſhing honour of the moſt juſt Bench, and moſt Orthodox Pulpit, this Nation could perhaps ever yet in any Age glory of?</p>
+            <p>But the <hi>Engliſh Men</hi> will prove themſelves <hi>He<g ref="char:EOLhyphen"/>brews of the Hebrews;</hi> deſcended, as it were, on both ſides from thoſe murmuring <hi>Iſraelites</hi> my Text relates to.</p>
+            <p>For how do they remember their paſt <hi>Afflicti<g ref="char:EOLhyphen"/>on and Miſery?</hi> the <hi>Wormwood and Gall, they ſo</hi> 
+               <note place="margin">Lam. 3. 19.</note> 
+               <hi>lately fed upon?</hi> Why, moſt truly like that un<g ref="char:EOLhyphen"/>thankful people, they have their <hi>Souls dried away,</hi> 
+               <note place="margin">Num. 11. 6.</note> becauſe they have nothing elſe but this <hi>Manna,</hi> this Angels Food before their Eyes to nouriſh them.</p>
+            <p>For otherwiſe how comes it to paſs, That they will <hi>forſake the</hi> true <hi>Fountain of living Waters,</hi> the Church of <hi>England,</hi> which not long ſince their Souls ſeemed to <hi>pant after;</hi> and perverſly <hi>hew them out Ciſterns, broken Ciſterns, that can hold no Water,</hi> unleſs corrupted and poyſoned.</p>
+            <pb n="16" facs="tcp:52773:12"/>
+            <p> What other Reaſon can be aſſigned, That when the Fathers of our time are asked by their Children for the <hi>Bread of Life,</hi> they will give them (but at beſt) <hi>an inſipid Stone,</hi> in which there is no delight or nouriſhment, either to Body or Soul; That when they <hi>ask for a Fiſh,</hi> they (con<g ref="char:EOLhyphen"/>trary to our Saviour's Remark) give them <hi>a Ser<g ref="char:EOLhyphen"/>pent:</hi> and when <hi>an Egg, a Scorpion?</hi> When, as <hi>new born Babes, they deſire the ſincere Milk of the Word,</hi> they ſend them in their tender years, to ſuck in thoſe deadly envenom'd Principles, that are but too commonly prated up in Conventicles; thoſe Seminaries of <hi>Murmuring,</hi> and Nurſeries of Re<g ref="char:EOLhyphen"/>bellion? And when they deſire the <hi>ſtrong Meat</hi> of the Goſpel, <hi>that they may grow thereby unto per<g ref="char:EOLhyphen"/>fect Men, unto the meaſure of the ſtature of the ful<g ref="char:EOLhyphen"/>neſs of Chriſt;</hi> they (inſtead thereof) actually en<g ref="char:EOLhyphen"/>gage their unſtable minds in <hi>Leagues, Covenants</hi> and <hi>Aſſociations</hi> againſt the King's ſacred Perſon, his ſerene and happy Government.</p>
+            <p>Theſe are the miſchievous methods theſe Men take to beguile unwary Souls; theſe the accurſed Theorems they lay down to their Proſelites. But whenever they put them in practice, they will (without a ſpeedy Repentance, and God's great Mercy) moſt aſſuredly find Miſery and Deſtru<g ref="char:EOLhyphen"/>ction to be the Reward of their Unrighteouſneſs. For though they may chance to eſcape the ſtroak of Juſtice here, yet, <hi>Behold, the Lord cometh</hi> (ſaith St. <hi>Jude) with ten thouſands of his Saints, to exe<g ref="char:EOLhyphen"/>cute</hi> 
+               <note place="margin">Jud. v. 14, 15, 16.</note> 
+               <hi>Judgment upon all</hi> ſuch as are <hi>Murmurers, Com<g ref="char:EOLhyphen"/>plainers, walking after their own Luſts, and whoſe</hi>
+               <pb n="17" facs="tcp:52773:12"/> 
+               <hi>mouth ſpeaketh great ſwelling words, having mens perſons in admiration becauſe of advantage.</hi> But, Fourthly, and laſtly,</p>
+            <p>I ſhall now draw a practical Concluſion from the foregoing Matter, and ſo diſmiſs you.</p>
+            <p>It is my wiſh, and I ſhall make it my endea<g ref="char:EOLhyphen"/>vour, <milestone type="tcpmilestone" unit="unspecified" n="IV"/> to end like a true <hi>Samaritan;</hi> and pour in healing Oyl and Wine: to do my little part in binding up thoſe green Wounds, under which ſome part of our miſerable Nation moſt wilfully at preſent languiſhes.</p>
+            <p>Our bleſſed Saviour, although Truth it ſelf in the Abſtract, when he found he could not gain Belief to his Doctrine amongſt the hardned Scribes and Phariſees; condeſcended ſo low as to refer them unto <hi>Moſes</hi> and the Prophets: and tells them, they were they which teſtified of him. St. <hi>Paul</hi> condeſcended yet lower; when he diſputed with his Heathen Auditors, whilſt he only refers <note place="margin">Aratus. Menander. Epimenides.</note> them unto their own Poets, to find a Confirma<g ref="char:EOLhyphen"/>tion of his Arguments.</p>
+            <p>But I will ſtoop to the loweſt method of Rea<g ref="char:EOLhyphen"/>ſoning: whilſt I ſhall only refer thoſe turbulent Spirits, who refuſe to be convinced from the Ho<g ref="char:EOLhyphen"/>ly Bible, the Oracles of God, that they ought to poſſeſs their Souls, not only in patience, but in thankfulneſs too, to an impartial peruſal of thoſe brief <hi>Weekly Memoirs,</hi> which are Authentick A<g ref="char:EOLhyphen"/>bridgments of our preſent Modern Hiſtory. And then I dare challenge the boldeſt of them to de<g ref="char:EOLhyphen"/>ny if they can,</p>
+            <pb n="18" facs="tcp:52773:13"/>
+            <p> That God has not in a moſt gracious manner been pleaſed to appear to us of theſe Fortunate Iſlands, under his kinder Titles, <hi>The God of Peace and of Order:</hi> whilſt at the ſame time he has been known to all the Nations round about us, as well Chriſtian as Infidel, under his more ter<g ref="char:EOLhyphen"/>rible Names of <hi>The Lord of Hoſts, The God of Forces, The Lord ſtrong and mighty, even the Lord mighty in Battel.</hi>
+            </p>
+            <p>That whilſt we have been <hi>breaking our Swords into Plough-ſhares, and our Spears into Pruning Hooks:</hi> whilſt We have been making thoſe In<g ref="char:EOLhyphen"/>ſtruments of death, ſerviceable towards bring<g ref="char:EOLhyphen"/>ing forth the Fruits of the Earth; our Neigh<g ref="char:EOLhyphen"/>bours have not in a moſt hoſtile manner been turning them upon each others Breaſts, even <hi>till their Blood has been poured out as the Duſt, and their Fleſh as the Dung.</hi>
+            </p>
+            <p>Whilſt we have ſecurely <hi>eaten every Man of his own Vine, and every one of his Fig-tree; and drank every one the Waters of his own Ciſtern:</hi> They have (on the contrary) <hi>ſowed, but not reaped; and trod</hi> 
+               <note place="margin">Mic. 6. 15.</note> 
+               <hi>the Olives, but have not anointed themſelves with Oil; and preſſed thoſe Grapes which make the ſweet Wine, but have not drank Wine.</hi>
+            </p>
+            <p>Whilſt We enjoy the quiet poſſeſſion of our Eſtates in our own times, and probably may leave them ſo to our Poſterity after us; They have had their Enemies <hi>without number encamped againſt them, to deſtroy the Increaſe of the Earth: And Armies as Graſhoppers for Multitude entring into their Land to devour it.</hi> So that <hi>Strangers have</hi>
+               <pb n="19" facs="tcp:52773:13"/> 
+               <hi>been filled with their Wealth, and their Labours have been in the Houſes of Strangers.</hi>
+            </p>
+            <p>Whilſt God has been pleaſed mercifully to <hi>crown our Years with his Goodneſs,</hi> and to cauſe the <hi>Clouds</hi> continually to <hi>drop down Fatneſs;</hi> yea, to drop even upon the barren Dwellings of the Wilderneſs. Whilſt our <hi>Hills have rejoyced on every ſide, our Paſtures have been cloathed with Flocks, and our Valleys covered over with Corn:</hi> Their Fields have been turned into <hi>Aceldama</hi>'s, made fertile only by the flowing Streams of Hu<g ref="char:EOLhyphen"/>mane Blood; and no other Voice heard there<g ref="char:EOLhyphen"/>in, but the diſmal howlings, and ſorrowful Groans of the moſt miſerably expiring Slaugh<g ref="char:EOLhyphen"/>tered.</p>
+            <p>Whilſt we have been <hi>cloathed in ſoft Raiment, and been gorgeouſly appparelled;</hi> whilſt we <hi>have lived delicately,</hi> and been pampered with all the various parts of Luxury: Their Fields have been covered with <hi>dead Corps,</hi> their <hi>Garments rolled in Blood:</hi> and thoſe Bodies that ſurviv'd the common Miſery, have been expoſed to the ſcorching heat of the Sun by day, and the chill benumming Cold of the Moon by night. So that though they were invulnerable, by all the Weapons formed againſt them in this cruel War<g ref="char:EOLhyphen"/>fare; yet have they not been Armour-proof againſt thoſe keener Arrows of Exile, Famine and Deſpair.</p>
+            <p>Whilſt our moſt gracious <hi>Moſes wears himſelf away</hi> with anxious Cares how to procure all Wel<g ref="char:EOLhyphen"/>fare to his bounden Subjects; and, as if he were
+<pb n="20" facs="tcp:52773:14"/> not by a figure, but in a literal ſenſe, the <hi>Father of his Countrey, carries us in his Boſom, as a nurſ<g ref="char:EOLhyphen"/>ing</hi> 
+               <note place="margin">Num. 11. 12.</note> 
+               <hi>Father beareth the ſucking Child:</hi> Whilſt He ſeems to be wrought upon only by the <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, by his Natural Affection; and like an <hi>indulgent Parent,</hi> thinks <hi>his Children ought not to lay up for him, but he for his Children:</hi> Whilſt (I ſay) he has of late exempted us from paying the moſt cuſtomary Taxes uſually granted him over and above his Annual ſtanding Revenue, the moſt neceſſary ſupport of his Crown and Dignity. Our Neighbours all the while have moſt arbitrarily been forced to raiſe almoſt infinite Sums of Con<g ref="char:EOLhyphen"/>tribution Money, for the Maintenance of their Uſurping Tyrants; and ſo brought upon them<g ref="char:EOLhyphen"/>ſelves and their Poſterity, in good ſad earneſt (what our late <hi>Murmurers</hi> vainly but ſuſpected) perpetual Slavery.</p>
+            <p>Whilſt We enjoy the free Exerciſe of a moſt pure and undefiled Religion; whilſt our Mother, the Church, is permitted (without any interrup<g ref="char:EOLhyphen"/>tion) freely to receive her Sons and Daughters into her Arms, and to <hi>gather her Children as a Hen gathereth her Chickens under her Wings;</hi> (though many of them are ſo rebellious as to deſpiſe ſo tender a Propoſal; and rather chuſe to expoſe themſelves to thoſe ravenous Birds of Prey, her Adverſaries:) The People round about us are ſent <hi>to ſing the Songs of the Lord in a ſtrange Land;</hi> and have no other Rule left them to walk by, but that hard one to Fleſh and Blood; namely, <hi>When they are perſecuted in one City, to fly unto ano<g ref="char:EOLhyphen"/>ther.</hi> 
+               <note place="margin">Mat. 10. 2<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.</note>
+               <pb n="21" facs="tcp:52773:14"/> Nay, and in thoſe places, where the true Religion is not yet wholly extirpated, the Pro<g ref="char:EOLhyphen"/>feſſors of it are in perpetual danger, even whilſt they are performing her moſt holy Rites, to be themſelves offered up as <hi>Holocauſts;</hi> and with the ſurpriſed <hi>Galileans, to have their Blood mingled with</hi> 
+               <note place="margin">Luk. 13. 1.</note> 
+               <hi>their Sacrifices.</hi>
+            </p>
+            <p>Whilſt we have been particularly privileged with calm <hi>Halcyon</hi> days; whilſt we have been in a moſt peculiar manner bleſſed with the Genuine Fruits of the Dove-like Spirit; to wit, <hi>Love, Joy,</hi> 
+               <note place="margin">Gal. 5. 22.</note> 
+               <hi>Peace, Long-ſuffering, Gentleneſs, and Goodneſs:</hi> On the other ſide, <hi>Snares, Fire and Brimſtone,</hi> 
+               <note place="margin">Pſal. 11. 17.</note> 
+               <hi>Storm and Tempeſt</hi> have been the diſ-reliſhing <hi>Por<g ref="char:EOLhyphen"/>tion of their Cup.</hi> And may the over-ruling Pro<g ref="char:EOLhyphen"/>vidence of God moſt graciouſly forbid their being forced ever <hi>to wring out the dregs thereof, and drink them.</hi> For that, at preſent, <hi>within are Fears,</hi> al<g ref="char:EOLhyphen"/>though <hi>without there are</hi> not actual <hi>Fightings</hi> amongſt them. They are troubled with Formi<g ref="char:EOLhyphen"/>dable <hi>Rumours of Wars,</hi> and have but too great reaſon to fear their ſpeedy breaking out into open Hoſtility. Their only ſad hopes, alas! are, that, though the thing <hi>revealed be true, yet the time appointed may be long.</hi>
+            </p>
+            <p>Thus has God viſited others <hi>with Judgment,</hi> and us <hi>with Mercy.</hi> And We truſt, that as he has lately in an eminent manner, ſo he will ſtill vouchſafe to <hi>abate the pride, aſſwage the malice, and confound the devices of our Enemies,</hi> of whatſoever Party or Perſuaſion. Our Souls having eſcaped, even as caught Birds, out of the Snare of their
+<pb n="22" facs="tcp:52773:15" rendition="simple:additions"/> entrapping Fowlers: The Snares having been in a miraculous manner broken, and thereby a moſt ſignal Deliverance wrought for us.</p>
+            <p>And now that God (the Almighty Governor of the World) hath done theſe great things for us, beyond what he has done for other Nations, it ſhould engage Us to a moſt hearty Thankfulneſs for the ſame. <hi>Let us therefore offer</hi> 
+               <note place="margin">Heb. 13. 15.</note> 
+               <hi>the Sacrifice of Praiſe to God continually, that is, the Fruit of our Lips, giving thanks to his Name.</hi> This would ſilence all our Complaints, quiet our <hi>Murmurings,</hi> and drive away our Fears; eſpeci<g ref="char:EOLhyphen"/>ally now we are ſo throughly convinced by plain demonſtration, that the Lord is on our ſide, he taketh our part, and fighteth for us.</p>
+            <p>Away then with groundleſs Jealouſies, and ima<g ref="char:EOLhyphen"/>ginary Fears! When God is our <hi>Helper,</hi> our <hi>De<g ref="char:EOLhyphen"/>fence,</hi> even a <hi>Tower of Strength</hi> to his Servants againſt all their Enemies. Shall we ſtill diſ-believe all theſe happy ſigns of his Love, he has ſhewed among us? Shall we (out of Mockery to his Al<g ref="char:EOLhyphen"/>mighty Power) create to our ſelves, out of no<g ref="char:EOLhyphen"/>thing, unreaſonable Diſcontents and <hi>Murmurings?</hi> This is (like <hi>Envy</hi> it ſelf) for us to weep, becauſe <note place="margin">
+                  <hi>Vixque lacry<g ref="char:EOLhyphen"/>mas, quia nil lacrymabile cernit.</hi> Ovid. Met. l. 2.</note> we can ſee nothing juſtly deplorable: To draw up the Sluces, and open the Flud-gates of our Tears; becauſe we can meet with no true reaſon of <hi>Complaining in our Streets.</hi> Let us then no longer nauſeate, and ungratefully ſurfeit upon our laſting Proſperity; and, like <hi>Polycrates,</hi> wilfully fling our Rings into the River, that according to the blind Dictates of Humane Nature (which in<g ref="char:EOLhyphen"/>cline
+<pb n="23" facs="tcp:52773:15"/> us to love Variety) we, with him, may ob<g ref="char:EOLhyphen"/>tain an unſavoury taſte of Adverſity. Let us no more provoke the Lord by a fooliſh Longing af<g ref="char:EOLhyphen"/>ter Change and Novelty: but reſolve to be con<g ref="char:EOLhyphen"/>tented with that Lot and Portion, his merciful Providence hath aſſigned to us: Ever humbly ac<g ref="char:EOLhyphen"/>knowledging his multiplied Mercy, and his pecu<g ref="char:EOLhyphen"/>liar Care over us; a Nation, even like <hi>Iſrael</hi> it ſelf, for whom the Lord has <hi>wrought Marvels,</hi> 
+               <note place="margin">Exod. 34. 10.</note> 
+               <hi>ſuch as have not been done in all the Earth.</hi> A Na<g ref="char:EOLhyphen"/>tion, <hi>ſaved by the Lord, the Shield of our Help, and</hi> 
+               <note place="margin">Deut. 33. 29.</note> 
+               <hi>the Sword of our Excellency.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
